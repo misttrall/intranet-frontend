@@ -1,0 +1,271 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: #f5f7fb;
+}
+
+/* Layout principal */
+.layout {
+  display: grid;
+  grid-template-columns: 280px 1fr 280px;
+  gap: 20px;
+  padding: 20px;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Cards base */
+.box {
+  background: white;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  overflow: hidden;
+}
+
+/* Scroll bonito */
+.box::-webkit-scrollbar {
+  width: 6px;
+}
+
+.box::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 10px;
+}
+
+/* Títulos */
+h2, h3 {
+  margin-top: 0;
+}
+
+/* ========================= */
+/* 📢 PUBLICACIONES */
+/* ========================= */
+
+/* ========================= */
+/* 📢 PUBLICACIONES */
+/* ========================= */
+
+.publicaciones {
+  overflow-y: auto;
+}
+
+.post-user {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+
+/* tarjeta */
+.post-card {
+  border-bottom: 1px solid #eee;
+  padding: 15px 0;
+}
+
+.post-card:last-child {
+  border-bottom: none;
+}
+
+/* header */
+.post-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.avatar-small {
+  width: 40px;
+  height: 40px;
+  background: #4caf50;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-weight: bold;
+}
+
+/* texto */
+.post-card h3 {
+  margin: 8px 0 5px;
+  font-size: 16px;
+}
+
+.post-card p {
+  font-size: 14px;
+  color: #333;
+  margin: 0;
+}
+
+/* fecha */
+.fecha {
+  font-size: 12px;
+  color: gray;
+  margin: 0;
+}
+
+/* media */
+.post-media {
+  margin-top: 10px;
+}
+
+.post-media img,
+.post-media video {
+  width: auto;
+  max-width: 100%;
+  max-height: 400px;
+  border-radius: 8px;
+}
+
+/* ========================= */
+/* 🎂 CUMPLEAÑOS */
+/* ========================= */
+
+.cumple-box {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.cumple-lista {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  overflow: hidden;
+}
+
+.cumple-row {
+  display: grid;
+  grid-template-columns: 40px 1fr auto;
+  align-items: center;
+  padding: 8px;
+  border-radius: 8px;
+  background: #f5f7fb;
+  transition: 0.2s;
+}
+
+.cumple-row:hover {
+  background: #e9eef6;
+}
+
+.cumple-img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.nombre {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.fecha {
+  font-size: 12px;
+  color: gray;
+}
+
+/* ========================= */
+/* 📊 INDICADORES + LINKS */
+/* ========================= */
+
+.indicadores {
+  display: grid;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.indicador {
+  background: #f5f7fb;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.links {
+  list-style: none;
+  padding: 0;
+}
+
+.links li {
+  margin-bottom: 8px;
+}
+
+.links a {
+  text-decoration: none;
+  color: #333;
+}
+
+.links a:hover {
+  color: #4caf50;
+}
+
+/* ========================= */
+/* 🛠️ ADMIN */
+/* ========================= */
+
+.admin-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.admin-card {
+  background: white;
+  border-radius: 16px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form input,
+.form textarea {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-family: inherit;
+}
+
+.form textarea {
+  min-height: 120px;
+  resize: none;
+}
+
+.form button {
+  background: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background: #43a047;
+}
+
+.mensaje {
+  margin-top: 10px;
+}
+
+.admin-post {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #eee;
+  padding: 10px 0;
+}
+
+.btn-delete {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
