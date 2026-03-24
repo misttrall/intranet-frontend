@@ -1,0 +1,75 @@
+# =========================
+# 🔐 ENV VARIABLES
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# 📦 DEPENDENCIAS
+# =========================
+node_modules/
+**/node_modules/
+
+# =========================
+# 🏗 BUILD / DIST
+# =========================
+build/
+dist/
+.out/
+
+# =========================
+# ⚛️ REACT
+# =========================
+frontend/build/
+frontend/.cache/
+
+# =========================
+# 🧠 LOGS
+# =========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# 🖥 SISTEMA
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🧪 TEST / COVERAGE
+# =========================
+coverage/
+
+# =========================
+# 🗂 BACKEND FILES
+# =========================
+uploads/
+backend/uploads/
+
+# (opcional si guardas cache)
+cache/
+tmp/
+
+# =========================
+# 🧰 IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# 🐳 DOCKER (futuro)
+# =========================
+docker-compose.override.yml
+
+# =========================
+# 🔒 OTROS
+# =========================
+*.pid
+*.seed
+*.lock

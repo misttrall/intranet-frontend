@@ -1,0 +1,202 @@
+[
+  {
+    "nombre": "Kevin Morales",
+    "dia": "02",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/8576/dfb57222-07f9-4149-9c6f-2dadec25b0ba-Kevin_Morales.jpg"
+  },
+  {
+    "nombre": "Sergio Abarca",
+    "dia": "03",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3016/528a9dc8-f6d0-4fe2-8c4e-af84989f8cdb-Sergio_abarca.jpg"
+  },
+  {
+    "nombre": "Elias Lobo",
+    "dia": "03",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/14710/43b0e28c-f0c9-4983-9372-f34d5de7cac4-Elias_lobo_1_.jpg"
+  },
+  {
+    "nombre": "Gabriela Orellana",
+    "dia": "04",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/8242/2d8ae7ef-f545-4afd-a95f-e51d20e2d305-Gabriela_Orellana.jpg"
+  },
+  {
+    "nombre": "Claudio Piña",
+    "dia": "04",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/4419/0f3346ff-ba29-4094-88a9-26287a616670-Claudio_Pi%C3%B1a.jpg"
+  },
+  {
+    "nombre": "Bernardita Cabezas",
+    "dia": "05",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/16995/30848f08-c341-439e-98ca-5f7ced6d0c26-Bernardita_cabezas_1_.jpg"
+  },
+  {
+    "nombre": "Sara Milla",
+    "dia": "05",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3055/a8bb3308-b0f0-4827-974e-75440b69c601-Ser%C3%A1_milla_millanao_.jpg"
+  },
+  {
+    "nombre": "Valeria Rios",
+    "dia": "05",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/4214/93bb3975-0aa5-401c-9865-5104d79c97da-Valeria_Rios.jpg"
+  },
+  {
+    "nombre": "Manuel Duarte",
+    "dia": "07",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3174/b9bfc3e2-5c77-435f-b54c-12fd4ee27330-Manuel_duarte_mero.jpg"
+  },
+  {
+    "nombre": "Bryan Alvarez",
+    "dia": "08",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/16001/4464bcd2-cac3-4efa-be0e-3aaaa101e1b1-WhatsApp_Image_2026-02-10_at_8.33.39_AM.jpeg"
+  },
+  {
+    "nombre": "Jazmin Cereño",
+    "dia": "08",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3005/734c0e35-ef44-4c15-8a75-14d63e5eadf1-Jasmin_cere%C3%B1o_.jpg"
+  },
+  {
+    "nombre": "Ariel Gonzalez",
+    "dia": "10",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/4888/02aa2cb0-79e8-48bd-84fe-87c601f123d9-Ariel_Gonzalez.jpg"
+  },
+  {
+    "nombre": "Daniel Vivanco",
+    "dia": "10",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3133/12c9def5-d33b-4486-bd83-1c2fceec1b05-Daniel_vivanco_aguilar_.jpg"
+  },
+  {
+    "nombre": "Eva Milla",
+    "dia": "11",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3284/b545329e-5dad-412a-8974-b50a809c870c-Eva_milla_millanao_.jpg"
+  },
+  {
+    "nombre": "Siggal Hernandez",
+    "dia": "12",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/17053/4a62bf23-5b6f-44b7-bb7c-4f35c96fe8b7-WhatsApp_Image_2026-03-17_at_14.02.13.jpeg"
+  },
+  {
+    "nombre": "Jordan Ibarra",
+    "dia": "12",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3249/b735c466-1d9e-4d17-8533-108fe32a9b87-Jordan_ibarra_.jpg"
+  },
+  {
+    "nombre": "Ignacia Olea",
+    "dia": "12",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/9892/42b3d58d-cdcf-4b7c-8941-e2da21a64123-Ignacia_Olea.jpg"
+  },
+  {
+    "nombre": "Mario Montanari",
+    "dia": "13",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3402/06cbe472-d808-4751-bbbe-dbd50df0a3f5-MARIO_MONTANARI.jpg"
+  },
+  {
+    "nombre": "Francisco Mardones",
+    "dia": "14",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/9299/52cfdf9f-a4cf-4ff6-ab78-fede61a55c5d-Francisco_Mardones.jpg"
+  },
+  {
+    "nombre": "Jenniffer Muñoz",
+    "dia": "14",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/16162/acf3080a-5e87-4162-b2eb-04211cd5bea4-Jenniffer_mu%C3%B1oz_1_.jpg"
+  },
+  {
+    "nombre": "Manuel Tondreaux",
+    "dia": "15",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/15637/3f836e68-7430-4ba4-9c15-f6e9096cf86c-Manuel_tondreaux_1_.jpg"
+  },
+  {
+    "nombre": "Luis Diaz",
+    "dia": "16",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/16558/2faf802a-3997-4a92-a593-1e3ad43d06a8-Luis_Diaz_1_.jpg"
+  },
+  {
+    "nombre": "Fernando Gonzalez",
+    "dia": "16",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3019/7fe92ec4-96f8-4ce4-a89e-e5d81bff6032-Fern%C3%A1ndo_gonzalez_arbea.jpg"
+  },
+  {
+    "nombre": "Patricio Faundez",
+    "dia": "17",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/15865/4580f68f-ffd5-48d8-a58e-6e2abceab371-Patricio_faundez_1_.jpg"
+  },
+  {
+    "nombre": "Luis Perez",
+    "dia": "20",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3386/0e1cdd3e-4e7c-4b4b-aacf-0fb61740e981-WhatsApp_Image_2024-04-09_at_10.24.20.jpeg"
+  },
+  {
+    "nombre": "Vicente Bustamante",
+    "dia": "22",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/8578/21deac7e-6520-445f-8766-02aae9f758a6-Vicente_Bustamante_Roa.jpg"
+  },
+  {
+    "nombre": "Marcela Galvez",
+    "dia": "22",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3253/6bd06a42-426b-48ba-9c8b-fb206e1567c2-Marcela_galvez_serrano_.jpg"
+  },
+  {
+    "nombre": "Isidora Quinteros",
+    "dia": "23",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/7755/85a5532b-3691-4caa-a90e-432e39c86bb6-Isidora_Quinteros.jpg"
+  },
+  {
+    "nombre": "Francisco Tapia",
+    "dia": "23",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/4148/ca58808c-e9f9-4456-9805-d8683dd9e768-Francisco_tapia_.jpg"
+  },
+  {
+    "nombre": "Joaquin Jimenez",
+    "dia": "24",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/6958/04534178-d0ee-42e9-8644-6a09ae8c612f-Joaquin_Jimenez.jpg"
+  },
+  {
+    "nombre": "Maria Espinoza",
+    "dia": "25",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3095/d34c1a9c-90e2-4ad7-85ea-2fe36cec31bb-IMG-0427.jpg"
+  },
+  {
+    "nombre": "Ruth Tejo",
+    "dia": "25",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/2986/a07d7db3-21ee-47e2-90cb-b3226c1947cf-ruth_tejo.jpg"
+  },
+  {
+    "nombre": "Patricia Campos",
+    "dia": "26",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3270/82f79736-85ff-4aac-bda3-f12e6d38ecb6-Patricia_campos_1_.jpg"
+  },
+  {
+    "nombre": "Fabian Caceres",
+    "dia": "27",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/9035/bc29caa7-ed16-4c22-8bb6-3109c6574500-WhatsApp_Image_2024-05-16_at_15.38.53.jpeg"
+  },
+  {
+    "nombre": "Roxana Gallardo",
+    "dia": "28",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3364/969c4c87-63e5-480c-8a94-a624b66e3ad9-Roxana_gallardo_ortega_.jpg"
+  },
+  {
+    "nombre": "Monica Lara",
+    "dia": "28",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/16701/528127c7-ab07-44a9-88a6-9c97a5dc9dd3-Monica_lara_1_.jpg"
+  },
+  {
+    "nombre": "Milena Soto",
+    "dia": "29",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3040/c424e855-34b8-4170-8d05-57651eb73309-Milena_soto.jpg"
+  },
+  {
+    "nombre": "Sergio Bustamante",
+    "dia": "30",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/3198/543fabe4-7b4c-4e19-9b51-a307ebfe1e5e-Sergio_bustamante_arenas_.jpg"
+  },
+  {
+    "nombre": "Romina Muñoz",
+    "dia": "30",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/16328/6c062059-71fe-4ffc-b821-6f77ec680b40-WhatsApp_Image_2026-02-23_at_8.36.58_AM.jpeg"
+  },
+  {
+    "nombre": "Jimena Delgado",
+    "dia": "31",
+    "foto": "https://bukwebapp-enterprise-chile.s3.amazonaws.com/invertec/person/picture_url/16694/e6c734e3-0fcd-441c-95c7-b2bc254fe3c4-Jimena_delgado_1_.jpg"
+  }
+]
